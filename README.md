@@ -1,7 +1,6 @@
 # 📐 Advanced AR Classroom Planner
 
-**Author:** Apurv (Generated with the assistance of Gemini)
-
+**Author:** Apurv , Madhvan , Archita
 This project implements a 3D planning application using **Pygame** (for the user interface and virtual 3D rendering) integrated with **OpenCV** (for webcam access and Augmented Reality object tracking). The goal is to allow a user to design a classroom layout in a virtual environment and then view/test the placement of virtual objects (desks, chairs) in the real world using AruCo markers.
 
 ## ✨ Features
